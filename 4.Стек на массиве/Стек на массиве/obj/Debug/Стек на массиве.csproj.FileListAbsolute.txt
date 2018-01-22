@@ -1,0 +1,6 @@
+C:\Users\Nastya\Desktop\Дискретка\Стек на массиве\Стек на массиве\bin\Debug\Стек на массиве.exe.config
+C:\Users\Nastya\Desktop\Дискретка\Стек на массиве\Стек на массиве\bin\Debug\Стек на массиве.exe
+C:\Users\Nastya\Desktop\Дискретка\Стек на массиве\Стек на массиве\bin\Debug\Стек на массиве.pdb
+C:\Users\Nastya\Desktop\Дискретка\Стек на массиве\Стек на массиве\obj\Debug\Стек на массиве.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\Desktop\Дискретка\Стек на массиве\Стек на массиве\obj\Debug\Стек на массиве.exe
+C:\Users\Nastya\Desktop\Дискретка\Стек на массиве\Стек на массиве\obj\Debug\Стек на массиве.pdb

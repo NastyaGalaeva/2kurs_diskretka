@@ -1,0 +1,6 @@
+C:\Users\Nastya\Desktop\Дискретка\Стек на списке\Стек на списке\bin\Debug\Стек на списке.exe.config
+C:\Users\Nastya\Desktop\Дискретка\Стек на списке\Стек на списке\bin\Debug\Стек на списке.exe
+C:\Users\Nastya\Desktop\Дискретка\Стек на списке\Стек на списке\bin\Debug\Стек на списке.pdb
+C:\Users\Nastya\Desktop\Дискретка\Стек на списке\Стек на списке\obj\Debug\Стек на списке.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\Desktop\Дискретка\Стек на списке\Стек на списке\obj\Debug\Стек на списке.exe
+C:\Users\Nastya\Desktop\Дискретка\Стек на списке\Стек на списке\obj\Debug\Стек на списке.pdb

@@ -1,0 +1,7 @@
+C:\Users\Nastya\Desktop\Дискретка\Динам.массив\Динам.массив\bin\Debug\Динам.массив.exe.config
+C:\Users\Nastya\Desktop\Дискретка\Динам.массив\Динам.массив\bin\Debug\Динам.массив.exe
+C:\Users\Nastya\Desktop\Дискретка\Динам.массив\Динам.массив\bin\Debug\Динам.массив.pdb
+C:\Users\Nastya\Desktop\Дискретка\Динам.массив\Динам.массив\obj\Debug\Динам.массив.csprojResolveAssemblyReference.cache
+C:\Users\Nastya\Desktop\Дискретка\Динам.массив\Динам.массив\obj\Debug\Динам.массив.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\Desktop\Дискретка\Динам.массив\Динам.массив\obj\Debug\Динам.массив.exe
+C:\Users\Nastya\Desktop\Дискретка\Динам.массив\Динам.массив\obj\Debug\Динам.массив.pdb
