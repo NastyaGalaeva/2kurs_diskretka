@@ -1,0 +1,7 @@
+C:\Users\Nastya\Desktop\Дискретка\8.Сортировки\Sort\Sort\bin\Debug\Sort.exe.config
+C:\Users\Nastya\Desktop\Дискретка\8.Сортировки\Sort\Sort\bin\Debug\Sort.exe
+C:\Users\Nastya\Desktop\Дискретка\8.Сортировки\Sort\Sort\bin\Debug\Sort.pdb
+C:\Users\Nastya\Desktop\Дискретка\8.Сортировки\Sort\Sort\obj\Debug\Sort.csprojResolveAssemblyReference.cache
+C:\Users\Nastya\Desktop\Дискретка\8.Сортировки\Sort\Sort\obj\Debug\Sort.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\Desktop\Дискретка\8.Сортировки\Sort\Sort\obj\Debug\Sort.exe
+C:\Users\Nastya\Desktop\Дискретка\8.Сортировки\Sort\Sort\obj\Debug\Sort.pdb
